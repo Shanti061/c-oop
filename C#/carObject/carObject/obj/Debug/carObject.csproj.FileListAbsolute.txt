@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Shanti\C#\carObject\carObject\bin\Debug\carObject.exe.config
+C:\Users\student\Desktop\Shanti\C#\carObject\carObject\bin\Debug\carObject.exe
+C:\Users\student\Desktop\Shanti\C#\carObject\carObject\bin\Debug\carObject.pdb
+C:\Users\student\Desktop\Shanti\C#\carObject\carObject\obj\Debug\carObject.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Shanti\C#\carObject\carObject\obj\Debug\carObject.exe
+C:\Users\student\Desktop\Shanti\C#\carObject\carObject\obj\Debug\carObject.pdb

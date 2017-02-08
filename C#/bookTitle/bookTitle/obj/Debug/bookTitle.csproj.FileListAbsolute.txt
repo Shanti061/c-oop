@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Shanti\C#\bookTitle\bookTitle\bin\Debug\bookTitle.exe.config
+C:\Users\student\Desktop\Shanti\C#\bookTitle\bookTitle\bin\Debug\bookTitle.exe
+C:\Users\student\Desktop\Shanti\C#\bookTitle\bookTitle\bin\Debug\bookTitle.pdb
+C:\Users\student\Desktop\Shanti\C#\bookTitle\bookTitle\obj\Debug\bookTitle.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Shanti\C#\bookTitle\bookTitle\obj\Debug\bookTitle.exe
+C:\Users\student\Desktop\Shanti\C#\bookTitle\bookTitle\obj\Debug\bookTitle.pdb
